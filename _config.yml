@@ -31,12 +31,8 @@ collections:
   project:
     output: true
 
+url: ""
 plugins:
   - jekyll-default-layout
   - jekyll-sitemap
 
-sitemap:
-  exclude: 
-    - about/
-    - contact/ 
-  base_url: '' 
