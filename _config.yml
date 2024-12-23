@@ -9,5 +9,27 @@ defaults:
     values:
       layout: "default"
 
+permalink: /blog/:year/:month/:day/:title/
+
+
+collections:
+  algorithm:
+    output: true
+    permalink: /:collection/:name/
+  programming:
+    output: true
+    permalink: /:collection/:name/
+  architecture:
+    output: true
+    permalink: /:collection/:name/
+  cloud:
+    output: true
+    permalink: /:collection/:name/
+  tutorial:
+    output: true
+    permalink: /:collection/:name/
+  project:
+    output: true
+
 plugins:
   - jekyll-default-layout

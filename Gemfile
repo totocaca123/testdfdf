@@ -5,3 +5,5 @@ gem "jekyll"
 gem "just-the-docs"
 
 gem "jekyll-default-layout"
+gem "jekyll-sitemap" 
+
