@@ -9,3 +9,5 @@ defaults:
     values:
       layout: "default"
 
+plugins:
+  - jekyll-default-layout
