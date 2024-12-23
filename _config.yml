@@ -33,3 +33,4 @@ collections:
 
 plugins:
   - jekyll-default-layout
+  - jekyll-sitemap
