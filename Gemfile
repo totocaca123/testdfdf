@@ -4,4 +4,4 @@ gem "jekyll"
 
 gem "just-the-docs"
 
-gem "jekyll-default-layout" # jekyll layout plugin
+gem "jekyll-default-layout"
