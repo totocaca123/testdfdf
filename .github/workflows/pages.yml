@@ -44,8 +44,6 @@ jobs:
           ruby-version: '3.3'
           bundler-cache: true
           cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
-
 
       - name: Setup Pages
         id: pages
