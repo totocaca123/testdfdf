@@ -18,6 +18,8 @@ navigation:
     url: "/repo1/"
   - title: "repo2"
     url: "/repo2/"
+  - title: "repo3"
+    url: "/repo3/"
     
 collections:
   algorithm:
