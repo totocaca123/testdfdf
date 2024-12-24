@@ -14,8 +14,10 @@ permalink: /blog/:year/:month/:day/:title/
 navigation:
   - title: "Accueil"
     url: "/"
-  - title: "Sous-dossier 1"
-    url: "/sous-dossier-1/"
+  - title: "repo1"
+    url: "/repo1/"
+    - title: "repo2"
+    url: "/repo2/"
     
 collections:
   algorithm:
