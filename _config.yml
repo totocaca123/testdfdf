@@ -11,7 +11,12 @@ defaults:
 
 permalink: /blog/:year/:month/:day/:title/
 
-
+navigation:
+  - title: "Accueil"
+    url: "/"
+  - title: "Sous-dossier 1"
+    url: "/sous-dossier-1/"
+    
 collections:
   algorithm:
     output: true
