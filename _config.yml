@@ -16,7 +16,7 @@ navigation:
     url: "/"
   - title: "repo1"
     url: "/repo1/"
-    - title: "repo2"
+  - title: "repo2"
     url: "/repo2/"
     
 collections:
